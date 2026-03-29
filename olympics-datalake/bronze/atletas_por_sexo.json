@@ -1,7 +1,7 @@
 {
     "nome": "Atletas por Sexo",
-    "fonte": "Integracao olympics_historico + olympics_paris2024",
-    "descricao": "Medalhistas classificados por genero",
+    "fonte": "Integração olympics_historico + olympics_paris2024",
+    "descricao": "Medalhistas classificados por gênero",
     "formato": "parquet/csv",
     "colunas": [
         {
@@ -35,5 +35,5 @@
     ],
     "quantidade_linhas": 47002,
     "data_coleta": "2026-03-29",
-    "observacoes": "Genero extraido do nome do evento (historico) ou coluna gender (Paris 2024)"
+    "observacoes": "Gênero extraído do nome do evento (histórico) ou coluna gender (Paris 2024)"
 }

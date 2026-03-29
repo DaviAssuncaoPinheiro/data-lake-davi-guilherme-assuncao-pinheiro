@@ -1,7 +1,7 @@
 {
     "nome": "Olympics Paris 2024",
     "fonte": "Kaggle - Paris 2024 Olympic Games",
-    "descricao": "Dados dos medalhistas dos Jogos Olimpicos de Paris 2024",
+    "descricao": "Dados dos medalhistas dos Jogos Olímpicos de Paris 2024",
     "formato": "csv",
     "colunas": [
         {
@@ -91,5 +91,5 @@
     ],
     "quantidade_linhas": 2315,
     "data_coleta": "2026-03-29",
-    "observacoes": "Dados oficiais das Olimpiadas de Paris 2024"
+    "observacoes": "Dados oficiais das Olimpíadas de Paris 2024"
 }

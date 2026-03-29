@@ -1,7 +1,7 @@
 {
     "nome": "Medalhas 1986-2024",
-    "fonte": "Integracao olympics_historico + olympics_paris2024",
-    "descricao": "Dataset unificado de todos os medalhistas olimpicos",
+    "fonte": "Integração olympics_historico + olympics_paris2024",
+    "descricao": "Dataset unificado de todos os medalhistas olímpicos",
     "formato": "parquet/csv",
     "colunas": [
         {
@@ -35,5 +35,5 @@
     ],
     "quantidade_linhas": 47002,
     "data_coleta": "2026-03-29",
-    "observacoes": "Join entre dados historicos e Paris 2024, apenas medalhistas"
+    "observacoes": "Join entre dados históricos e Paris 2024, apenas medalhistas"
 }

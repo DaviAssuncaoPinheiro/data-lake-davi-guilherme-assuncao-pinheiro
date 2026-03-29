@@ -1,7 +1,7 @@
 {
-    "nome": "Analise de Medalhas",
+    "nome": "Análise de Medalhas",
     "fonte": "Camada bronze - medalhas_1986_2024",
-    "descricao": "Quadro de medalhas por pais com visualizacao dos top 15",
+    "descricao": "Quadro de medalhas por país com visualização dos top 15",
     "formato": "csv/png",
     "colunas": [
         {

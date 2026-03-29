@@ -1,7 +1,7 @@
 {
-    "nome": "Olympics Historico",
+    "nome": "Olympics Histórico",
     "fonte": "Kaggle - World Olympedia",
-    "descricao": "Dados de atletas e resultados de todas as edicoes dos Jogos Olimpicos",
+    "descricao": "Dados de atletas e resultados de todas as edições dos Jogos Olímpicos",
     "formato": "csv",
     "colunas": [
         {
@@ -51,5 +51,5 @@
     ],
     "quantidade_linhas": 316834,
     "data_coleta": "2026-03-29",
-    "observacoes": "Dados desde 1896 ate 2022, esportes de verao e inverno"
+    "observacoes": "Contém dados desde 1896 até 2022, incluindo esportes de verão e inverno"
 }

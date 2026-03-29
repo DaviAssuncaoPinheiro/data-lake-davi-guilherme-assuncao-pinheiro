@@ -1,7 +1,7 @@
 {
     "nome": "Modalidades 1986-2024",
-    "fonte": "Integracao medalhas_1986_2024",
-    "descricao": "Contagem de medalhas por esporte e edicao olimpica",
+    "fonte": "Integração medalhas_1986_2024",
+    "descricao": "Contagem de medalhas por esporte e edição olímpica",
     "formato": "parquet/csv",
     "colunas": [
         {

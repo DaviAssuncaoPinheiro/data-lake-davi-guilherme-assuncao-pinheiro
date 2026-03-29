@@ -1,7 +1,7 @@
 {
-    "nome": "Olympics Historico",
+    "nome": "Olympics Histórico",
     "fonte": "Camada raw - olympics_historico.csv",
-    "descricao": "Dados historicos convertidos para Parquet",
+    "descricao": "Dados históricos convertidos para formato Parquet",
     "formato": "parquet",
     "colunas": [
         {

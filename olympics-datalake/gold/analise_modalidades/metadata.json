@@ -1,7 +1,7 @@
 {
-    "nome": "Analise de Modalidades",
+    "nome": "Análise de Modalidades",
     "fonte": "Camada bronze - modalidades_1986_2024",
-    "descricao": "Ranking dos esportes olimpicos por medalhas",
+    "descricao": "Ranking dos esportes olímpicos por medalhas",
     "formato": "csv/png",
     "colunas": [
         {
