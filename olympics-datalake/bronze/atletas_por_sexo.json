@@ -1,0 +1,39 @@
+{
+    "nome": "Atletas por Sexo",
+    "fonte": "Integração olympics_historico + olympics_paris2024",
+    "descricao": "Medalhistas classificados por gênero",
+    "formato": "parquet/csv",
+    "colunas": [
+        {
+            "nome": "ano",
+            "tipo": "int64"
+        },
+        {
+            "nome": "edition",
+            "tipo": "str"
+        },
+        {
+            "nome": "pais",
+            "tipo": "str"
+        },
+        {
+            "nome": "sport",
+            "tipo": "str"
+        },
+        {
+            "nome": "atleta",
+            "tipo": "str"
+        },
+        {
+            "nome": "medalha",
+            "tipo": "str"
+        },
+        {
+            "nome": "genero",
+            "tipo": "str"
+        }
+    ],
+    "quantidade_linhas": 47002,
+    "data_coleta": "2026-03-29",
+    "observacoes": "Gênero extraído do nome do evento (histórico) ou coluna gender (Paris 2024)"
+}

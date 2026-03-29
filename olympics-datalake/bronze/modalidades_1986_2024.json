@@ -1,0 +1,39 @@
+{
+    "nome": "Modalidades 1986-2024",
+    "fonte": "Integração medalhas_1986_2024",
+    "descricao": "Contagem de medalhas por esporte e edição olímpica",
+    "formato": "parquet/csv",
+    "colunas": [
+        {
+            "nome": "ano",
+            "tipo": "int64"
+        },
+        {
+            "nome": "edition",
+            "tipo": "str"
+        },
+        {
+            "nome": "sport",
+            "tipo": "str"
+        },
+        {
+            "nome": "Gold",
+            "tipo": "int64"
+        },
+        {
+            "nome": "Silver",
+            "tipo": "int64"
+        },
+        {
+            "nome": "Bronze",
+            "tipo": "int64"
+        },
+        {
+            "nome": "Total",
+            "tipo": "int64"
+        }
+    ],
+    "quantidade_linhas": 1116,
+    "data_coleta": "2026-03-29",
+    "observacoes": ""
+}

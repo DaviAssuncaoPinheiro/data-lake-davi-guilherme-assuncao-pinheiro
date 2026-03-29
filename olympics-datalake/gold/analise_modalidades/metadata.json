@@ -1,0 +1,31 @@
+{
+    "nome": "Análise de Modalidades",
+    "fonte": "Camada bronze - modalidades_1986_2024",
+    "descricao": "Ranking dos esportes olímpicos por medalhas",
+    "formato": "csv/png",
+    "colunas": [
+        {
+            "nome": "sport",
+            "tipo": "str"
+        },
+        {
+            "nome": "Gold",
+            "tipo": "int64"
+        },
+        {
+            "nome": "Silver",
+            "tipo": "int64"
+        },
+        {
+            "nome": "Bronze",
+            "tipo": "int64"
+        },
+        {
+            "nome": "Total",
+            "tipo": "int64"
+        }
+    ],
+    "quantidade_linhas": 85,
+    "data_coleta": "2026-03-29",
+    "observacoes": ""
+}

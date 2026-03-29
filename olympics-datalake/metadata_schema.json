@@ -1,0 +1,23 @@
+{
+    "schema_version": "1.0",
+    "descricao": "Schema padrão para os arquivos de metadados do Data Lake",
+    "campos_obrigatorios": [
+        "nome",
+        "fonte",
+        "descricao",
+        "formato",
+        "colunas",
+        "quantidade_linhas",
+        "data_coleta"
+    ],
+    "tipos_campos": {
+        "nome": "string - nome do dataset",
+        "fonte": "string - origem dos dados",
+        "descricao": "string - descrição do conteúdo",
+        "formato": "string - formato do arquivo (csv, parquet, png)",
+        "colunas": "array - lista de colunas com nome e tipo",
+        "quantidade_linhas": "integer - número de linhas no dataset",
+        "data_coleta": "string - data de criação (YYYY-MM-DD)",
+        "observacoes": "string - informações adicionais (opcional)"
+    }
+}
