@@ -1,0 +1,95 @@
+{
+    "nome": "Olympics Paris 2024",
+    "fonte": "Kaggle - Paris 2024 Olympic Games",
+    "descricao": "Dados dos medalhistas dos Jogos Olimpicos de Paris 2024",
+    "formato": "csv",
+    "colunas": [
+        {
+            "nome": "medal_date",
+            "tipo": "str"
+        },
+        {
+            "nome": "medal_type",
+            "tipo": "str"
+        },
+        {
+            "nome": "medal_code",
+            "tipo": "float64"
+        },
+        {
+            "nome": "name",
+            "tipo": "str"
+        },
+        {
+            "nome": "gender",
+            "tipo": "str"
+        },
+        {
+            "nome": "country_code",
+            "tipo": "str"
+        },
+        {
+            "nome": "country",
+            "tipo": "str"
+        },
+        {
+            "nome": "country_long",
+            "tipo": "str"
+        },
+        {
+            "nome": "nationality_code",
+            "tipo": "str"
+        },
+        {
+            "nome": "nationality",
+            "tipo": "str"
+        },
+        {
+            "nome": "nationality_long",
+            "tipo": "str"
+        },
+        {
+            "nome": "team",
+            "tipo": "str"
+        },
+        {
+            "nome": "team_gender",
+            "tipo": "str"
+        },
+        {
+            "nome": "discipline",
+            "tipo": "str"
+        },
+        {
+            "nome": "event",
+            "tipo": "str"
+        },
+        {
+            "nome": "event_type",
+            "tipo": "str"
+        },
+        {
+            "nome": "url_event",
+            "tipo": "str"
+        },
+        {
+            "nome": "birth_date",
+            "tipo": "str"
+        },
+        {
+            "nome": "code_athlete",
+            "tipo": "int64"
+        },
+        {
+            "nome": "code_team",
+            "tipo": "str"
+        },
+        {
+            "nome": "is_medallist",
+            "tipo": "bool"
+        }
+    ],
+    "quantidade_linhas": 2315,
+    "data_coleta": "2026-03-29",
+    "observacoes": "Dados oficiais das Olimpiadas de Paris 2024"
+}

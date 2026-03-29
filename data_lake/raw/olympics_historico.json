@@ -1,0 +1,55 @@
+{
+    "nome": "Olympics Historico",
+    "fonte": "Kaggle - World Olympedia",
+    "descricao": "Dados de atletas e resultados de todas as edicoes dos Jogos Olimpicos",
+    "formato": "csv",
+    "colunas": [
+        {
+            "nome": "edition",
+            "tipo": "str"
+        },
+        {
+            "nome": "edition_id",
+            "tipo": "int64"
+        },
+        {
+            "nome": "country_noc",
+            "tipo": "str"
+        },
+        {
+            "nome": "sport",
+            "tipo": "str"
+        },
+        {
+            "nome": "event",
+            "tipo": "str"
+        },
+        {
+            "nome": "result_id",
+            "tipo": "int64"
+        },
+        {
+            "nome": "athlete",
+            "tipo": "str"
+        },
+        {
+            "nome": "athlete_id",
+            "tipo": "int64"
+        },
+        {
+            "nome": "position",
+            "tipo": "str"
+        },
+        {
+            "nome": "medal",
+            "tipo": "str"
+        },
+        {
+            "nome": "is_team_sport",
+            "tipo": "bool"
+        }
+    ],
+    "quantidade_linhas": 316834,
+    "data_coleta": "2026-03-29",
+    "observacoes": "Contem dados desde 1896 ate 2022, incluindo esportes de verao e inverno"
+}

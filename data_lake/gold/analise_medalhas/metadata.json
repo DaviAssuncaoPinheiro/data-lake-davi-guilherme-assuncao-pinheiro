@@ -1,0 +1,31 @@
+{
+    "nome": "Analise de Medalhas",
+    "fonte": "Camada bronze - medalhas_1896_2024",
+    "descricao": "Quadro de medalhas por pais de 1896 a 2024, com visualizacao dos top 15",
+    "formato": "csv/png",
+    "colunas": [
+        {
+            "nome": "pais",
+            "tipo": "str"
+        },
+        {
+            "nome": "Gold",
+            "tipo": "int64"
+        },
+        {
+            "nome": "Silver",
+            "tipo": "int64"
+        },
+        {
+            "nome": "Bronze",
+            "tipo": "int64"
+        },
+        {
+            "nome": "Total",
+            "tipo": "int64"
+        }
+    ],
+    "quantidade_linhas": 160,
+    "data_coleta": "2026-03-29",
+    "observacoes": "Contagem de medalhas individuais (cada atleta conta como uma medalha)"
+}

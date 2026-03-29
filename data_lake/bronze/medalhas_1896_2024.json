@@ -1,0 +1,39 @@
+{
+    "nome": "Medalhas 1896-2024",
+    "fonte": "Integracao olympics_historico + olympics_paris2024",
+    "descricao": "Dataset unificado de todos os medalhistas olimpicos de 1896 a 2024",
+    "formato": "parquet/csv",
+    "colunas": [
+        {
+            "nome": "ano",
+            "tipo": "int64"
+        },
+        {
+            "nome": "edition",
+            "tipo": "str"
+        },
+        {
+            "nome": "pais",
+            "tipo": "str"
+        },
+        {
+            "nome": "sport",
+            "tipo": "str"
+        },
+        {
+            "nome": "event",
+            "tipo": "str"
+        },
+        {
+            "nome": "atleta",
+            "tipo": "str"
+        },
+        {
+            "nome": "medalha",
+            "tipo": "str"
+        }
+    ],
+    "quantidade_linhas": 47002,
+    "data_coleta": "2026-03-29",
+    "observacoes": "Join entre dados historicos e Paris 2024, apenas atletas medalhistas"
+}
