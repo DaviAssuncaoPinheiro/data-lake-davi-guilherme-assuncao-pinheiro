@@ -1,17 +1,9 @@
 {
-    "nome": "Modalidades 1896-2024",
-    "fonte": "Integracao medalhas_1896_2024",
-    "descricao": "Contagem de medalhas por esporte e edicao olimpica",
-    "formato": "parquet/csv",
+    "nome": "Analise de Modalidades",
+    "fonte": "Camada bronze - modalidades_1986_2024",
+    "descricao": "Ranking dos esportes olimpicos por medalhas",
+    "formato": "csv/png",
     "colunas": [
-        {
-            "nome": "ano",
-            "tipo": "int64"
-        },
-        {
-            "nome": "edition",
-            "tipo": "str"
-        },
         {
             "nome": "sport",
             "tipo": "str"
@@ -33,7 +25,7 @@
             "tipo": "int64"
         }
     ],
-    "quantidade_linhas": 1116,
+    "quantidade_linhas": 85,
     "data_coleta": "2026-03-29",
     "observacoes": ""
 }

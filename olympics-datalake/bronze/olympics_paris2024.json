@@ -1,7 +1,7 @@
 {
     "nome": "Olympics Paris 2024",
     "fonte": "Camada raw - olympics_paris2024.csv",
-    "descricao": "Dados de Paris 2024 convertidos para formato Parquet",
+    "descricao": "Dados Paris 2024 convertidos para Parquet",
     "formato": "parquet",
     "colunas": [
         {

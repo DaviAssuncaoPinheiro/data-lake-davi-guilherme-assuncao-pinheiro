@@ -1,7 +1,7 @@
 {
     "nome": "Analise de Genero",
     "fonte": "Camada bronze - atletas_por_sexo",
-    "descricao": "Evolucao da participacao de medalhistas por genero ao longo das edicoes olimpicas",
+    "descricao": "Evolucao da participacao por genero nas olimpiadas",
     "formato": "csv/png",
     "colunas": [
         {

@@ -1,8 +1,8 @@
 {
     "nome": "Olympics Historico",
-    "fonte": "Camada raw - olympics_historico.csv",
-    "descricao": "Dados historicos convertidos para formato Parquet",
-    "formato": "parquet",
+    "fonte": "Kaggle - World Olympedia",
+    "descricao": "Dados de atletas e resultados de todas as edicoes dos Jogos Olimpicos",
+    "formato": "csv",
     "colunas": [
         {
             "nome": "edition",
@@ -51,5 +51,5 @@
     ],
     "quantidade_linhas": 316834,
     "data_coleta": "2026-03-29",
-    "observacoes": ""
+    "observacoes": "Dados desde 1896 ate 2022, esportes de verao e inverno"
 }

@@ -18,13 +18,13 @@ Dados brutos originais em CSV com seus metadados em JSON.
 Dados convertidos para Parquet e datasets integrados entre as fontes.
 - `olympics_historico.parquet` - dados historicos em Parquet
 - `olympics_paris2024.parquet` - dados Paris 2024 em Parquet
-- `medalhas_1896_2024` - unificacao de todos os medalhistas (historico + Paris 2024)
-- `modalidades_1896_2024` - contagem de medalhas por esporte e edicao
+- `medalhas_1986_2024` - unificacao de todos os medalhistas (historico + Paris 2024)
+- `modalidades_1986_2024` - contagem de medalhas por esporte e edicao
 - `atletas_por_sexo` - medalhistas classificados por genero
 
 ### gold/
-Analises finais com visualizacoes.
-- `analise_medalhas/` - quadro de medalhas por pais (top 15)
+Analises finais com visualizacoes, cada uma com seu proprio notebook.
+- `analise_medalhas/` - quadro de medalhas por pais
 - `analise_modalidades/` - ranking de esportes por medalhas
 - `analise_genero/` - evolucao da participacao feminina ao longo do tempo
 
